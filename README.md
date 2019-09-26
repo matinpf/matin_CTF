@@ -1,2 +1,2 @@
 # matin_CTF
-I love crypto CTF so i start implementation personal library for it
+I love crypto CTF so I start to implementation my personal library for it
